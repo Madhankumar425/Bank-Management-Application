@@ -1,4 +1,4 @@
-# ATM Simulator System
+# Bank Management Application
 
 A Java-based desktop application that simulates the core functionalities of an ATM, including account management, deposits, withdrawals, balance checks, and transaction history.  
 This project demonstrates object-oriented programming (OOP) principles, Java Swing for GUI, and JDBC for database connectivity.
